@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{371C6844-72BA-41A4-9473-1469CD050C62}|Default">
+  <MonoDevelop.Ide.ItemProperties.AnimatingViews PreferredExecutionTarget="Test1" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AnimatingViewsWindowController.cs">
+    <Files>
+      <File FileName="AnimatingViewsWindowController.cs" Line="338" Column="1" />
+      <File FileName="AnimatingViewsWindow.xib.designer.cs" />
+      <File FileName="MainMenu.xib" />
+      <File FileName="packages.config" />
+      <File FileName="AnimatingViewsWindow.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
