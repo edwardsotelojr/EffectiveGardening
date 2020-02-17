@@ -1,13 +1,22 @@
 ﻿<Properties StartupConfiguration="{371C6844-72BA-41A4-9473-1469CD050C62}|Default">
   <MonoDevelop.Ide.ItemProperties.AnimatingViews PreferredExecutionTarget="Test1" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="AnimatingViewsWindowController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AnimatingViewsWindow.cs">
     <Files>
-      <File FileName="AnimatingViewsWindowController.cs" Line="338" Column="1" />
-      <File FileName="AnimatingViewsWindow.xib.designer.cs" />
-      <File FileName="MainMenu.xib" />
-      <File FileName="packages.config" />
-      <File FileName="AnimatingViewsWindow.cs" />
+      <File FileName="AnimatingViewsWindowController.cs" Line="159" Column="1" />
+      <File FileName="AnimatingViewsWindow.xib.designer.cs" Line="1" Column="1" />
+      <File FileName="AnimatingViewsWindow.cs" Line="1" Column="1" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AnimatingViews" expanded="True">
+            <Node name="AnimatingViews" expanded="True">
+              <Node name="AnimatingViewsWindow.xib" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

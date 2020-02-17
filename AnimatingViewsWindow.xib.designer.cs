@@ -42,17 +42,16 @@ namespace AnimatingViews
 		[Action ("addABox:")]
 		partial void addABox (AppKit.NSButton sender);
 
-		[Action ("getGeoLocationButton:")]
-		partial void getGeoLocationButton (Foundation.NSObject sender);
-
-		[Action ("removeLastBox:")]
-		partial void removeLastBox (AppKit.NSButton sender);
-
 		[Action ("sizeTicker:")]
 		partial void sizeTicker (Foundation.NSObject sender);
 		
 		void ReleaseDesignerOutlets ()
 		{
+			if (laterWeatherLabel != null) {
+				laterWeatherLabel.Dispose ();
+				laterWeatherLabel = null;
+			}
+
 			if (nowWeatherLabel != null) {
 				nowWeatherLabel.Dispose ();
 				nowWeatherLabel = null;
@@ -91,11 +90,6 @@ namespace AnimatingViews
 			if (twentyFourHoursFromNow != null) {
 				twentyFourHoursFromNow.Dispose ();
 				twentyFourHoursFromNow = null;
-			}
-
-			if (laterWeatherLabel != null) {
-				laterWeatherLabel.Dispose ();
-				laterWeatherLabel = null;
 			}
 		}
 	}
