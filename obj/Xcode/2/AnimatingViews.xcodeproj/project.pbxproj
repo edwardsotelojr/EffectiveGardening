@@ -1,0 +1,325 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		BE14D9C60000000000000000 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 13AE08960000000000000000 /* Cocoa.framework */; };
+		36F2C08A0000000000000000 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8C8BEF5A0000000000000000 /* Foundation.framework */; };
+		AFD0A74E0000000000000000 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 569D61E00000000000000000 /* MainMenu.xib */; };
+		28AE8E120000000000000000 /* AnimatingViewsWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7E47BCE20000000000000000 /* AnimatingViewsWindow.xib */; };
+		85040FE60000000000000000 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = F725A3A60000000000000000 /* Info.plist */; };
+		FDE1F6AA0000000000000000 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 70038A6A0000000000000000 /* Assets.xcassets */; };
+		49E49AE00000000000000000 /* AnimatingViewsWindowController.m in Sources */ = {isa = PBXBuildFile; fileRef = 61BF57F20000000000000000 /* AnimatingViewsWindowController.m */; };
+		7D7C30720000000000000000 /* AnimatingViewsWindow.m in Sources */ = {isa = PBXBuildFile; fileRef = 537B257A0000000000000000 /* AnimatingViewsWindow.m */; };
+		F65A17360000000000000000 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 4536F3020000000000000000 /* AppDelegate.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		9AD021D20000000000000000 /* AnimatingViews.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = "AnimatingViews.app"; path = "AnimatingViews.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		13AE08960000000000000000 /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "Cocoa.framework"; path = "System/Library/Frameworks/Cocoa.framework"; sourceTree = SDKROOT; };
+		8C8BEF5A0000000000000000 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "Foundation.framework"; path = "System/Library/Frameworks/Foundation.framework"; sourceTree = SDKROOT; };
+		569D61E00000000000000000 /* MainMenu.xib */ = {isa = PBXFileReference; name = "MainMenu.xib"; path = "MainMenu.xib"; sourceTree = "<group>"; };
+		7E47BCE20000000000000000 /* AnimatingViewsWindow.xib */ = {isa = PBXFileReference; name = "AnimatingViewsWindow.xib"; path = "AnimatingViewsWindow.xib"; sourceTree = "<group>"; };
+		F725A3A60000000000000000 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "Info.plist"; path = "Info.plist"; sourceTree = "<group>"; };
+		70038A6A0000000000000000 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = "Assets.xcassets"; path = "Assets.xcassets"; sourceTree = "<group>"; };
+		E8E1712E0000000000000000 /* AnimatingViewsWindowController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "AnimatingViewsWindowController.h"; path = "AnimatingViewsWindowController.h"; sourceTree = "<group>"; };
+		61BF57F20000000000000000 /* AnimatingViewsWindowController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "AnimatingViewsWindowController.m"; path = "AnimatingViewsWindowController.m"; sourceTree = "<group>"; };
+		DA9D3EB60000000000000000 /* AnimatingViewsWindow.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "AnimatingViewsWindow.h"; path = "AnimatingViewsWindow.h"; sourceTree = "<group>"; };
+		537B257A0000000000000000 /* AnimatingViewsWindow.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "AnimatingViewsWindow.m"; path = "AnimatingViewsWindow.m"; sourceTree = "<group>"; };
+		CC590C3E0000000000000000 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "AppDelegate.h"; path = "AppDelegate.h"; sourceTree = "<group>"; };
+		4536F3020000000000000000 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "AppDelegate.m"; path = "AppDelegate.m"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		F0B56B720000000000000000 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BE14D9C60000000000000000 /* Cocoa.framework in Frameworks */,
+				36F2C08A0000000000000000 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		1B6659A30000000000000000 = {
+			isa = PBXGroup;
+			children = (
+				450F92E00000000000000000 /* AnimatingViews */,
+				D62638440000000000000000 /* Frameworks */,
+				ED3B98B90000000000000000 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		ED3B98B90000000000000000 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				9AD021D20000000000000000 /* AnimatingViews.app */,
+			);
+			name = "Products";
+			sourceTree = "<group>";
+		};
+		D62638440000000000000000 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				8C8BEF5A0000000000000000 /* Foundation.framework */,
+				13AE08960000000000000000 /* Cocoa.framework */,
+			);
+			name = "Frameworks";
+			sourceTree = "<group>";
+		};
+		450F92E00000000000000000 /* AnimatingViews */ = {
+			isa = PBXGroup;
+			children = (
+				DA9D3EB60000000000000000 /* AnimatingViewsWindow.h */,
+				537B257A0000000000000000 /* AnimatingViewsWindow.m */,
+				7E47BCE20000000000000000 /* AnimatingViewsWindow.xib */,
+				E8E1712E0000000000000000 /* AnimatingViewsWindowController.h */,
+				61BF57F20000000000000000 /* AnimatingViewsWindowController.m */,
+				CC590C3E0000000000000000 /* AppDelegate.h */,
+				4536F3020000000000000000 /* AppDelegate.m */,
+				70038A6A0000000000000000 /* Assets.xcassets */,
+				F725A3A60000000000000000 /* Info.plist */,
+				569D61E00000000000000000 /* MainMenu.xib */,
+			);
+			name = "AnimatingViews";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		3CF186AA0000000000000000 /* AnimatingViews */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EF5073B20000000000000000 /* Build configuration list for PBXNativeTarget "AnimatingViews" */;
+			buildPhases = (
+				A60245980000000000000000 /* Sources */,
+				F0B56B720000000000000000 /* Frameworks */,
+				CB5BD8850000000000000000 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "AnimatingViews";
+			productName = "AnimatingViews";
+			productReference = 9AD021D20000000000000000 /* AnimatingViews.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		8C5513CE0000000000000000 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 1130;
+			};
+			buildConfigurationList = D83B133D0000000000000000 /* Build configuration list for PBXProject "AnimatingViews" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 1B6659A30000000000000000;
+			productRefGroup = ED3B98B90000000000000000 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				3CF186AA0000000000000000 /* AnimatingViews */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		CB5BD8850000000000000000 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AFD0A74E0000000000000000 /* MainMenu.xib in Resources */,
+				28AE8E120000000000000000 /* AnimatingViewsWindow.xib in Resources */,
+				85040FE60000000000000000 /* Info.plist in Resources */,
+				FDE1F6AA0000000000000000 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		A60245980000000000000000 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				49E49AE00000000000000000 /* AnimatingViewsWindowController.m in Sources */,
+				7D7C30720000000000000000 /* AnimatingViewsWindow.m in Sources */,
+				F65A17360000000000000000 /* AppDelegate.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		E815E4BE0000000000000000 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		60F3CB820000000000000000 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		6F37FDFA0000000000000000 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.yourcompany.AnimatingViews";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		9E3456750000000000000000 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.yourcompany.AnimatingViews";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		D83B133D0000000000000000 /* Build configuration list for PBXProject "AnimatingViews" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E815E4BE0000000000000000 /* Debug */,
+				60F3CB820000000000000000 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		EF5073B20000000000000000 /* Build configuration list for PBXNativeTarget "AnimatingViews" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6F37FDFA0000000000000000 /* Debug */,
+				9E3456750000000000000000 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 8C5513CE0000000000000000 /* Project object */;
+}

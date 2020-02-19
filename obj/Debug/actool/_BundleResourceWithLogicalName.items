@@ -1,8 +1,148 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <_BundleResourceWithLogicalName Include="obj/Debug/actool/bundle/Assets.car">
-      <LogicalName>Assets.car</LogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/actool/bundle/Amaranth.jpg">
+      <LogicalName>Amaranth.jpg</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/actool/bundle/Artichoke.jpg">
+      <LogicalName>Artichoke.jpg</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/actool/bundle/Arugula.jpg">
+      <LogicalName>Arugula.jpg</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/actool/bundle/Asparagus.jpg">
+      <LogicalName>Asparagus.jpg</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/actool/bundle/Beets.jpg">
+      <LogicalName>Beets.jpg</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/actool/bundle/Broccoli.jpg">
+      <LogicalName>Broccoli.jpg</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/actool/bundle/Brussel Sprouts.jpg">
+      <LogicalName>Brussel Sprouts.jpg</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/actool/bundle/Cabbage.jpg">
+      <LogicalName>Cabbage.jpg</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/actool/bundle/Carrots.jpg">
+      <LogicalName>Carrots.jpg</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/actool/bundle/Cauliflower.jpg">
+      <LogicalName>Cauliflower.jpg</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/actool/bundle/Celery.jpg">
+      <LogicalName>Celery.jpg</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/actool/bundle/Collard Greens.jpg">
+      <LogicalName>Collard Greens.jpg</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/actool/bundle/Corn.jpg">
+      <LogicalName>Corn.jpg</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/actool/bundle/Cucumber.jpg">
+      <LogicalName>Cucumber.jpg</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/actool/bundle/Eggplant.jpg">
+      <LogicalName>Eggplant.jpg</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/actool/bundle/Ginger Root.jpg">
+      <LogicalName>Ginger Root.jpg</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/actool/bundle/Green Beans.jpg">
+      <LogicalName>Green Beans.jpg</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/actool/bundle/Kale.jpg">
+      <LogicalName>Kale.jpg</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/actool/bundle/Lettuce.jpg">
+      <LogicalName>Lettuce.jpg</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/actool/bundle/Mushrooms.jpg">
+      <LogicalName>Mushrooms.jpg</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/actool/bundle/Mustard Greens.jpg">
+      <LogicalName>Mustard Greens.jpg</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/actool/bundle/Okra.jpg">
+      <LogicalName>Okra.jpg</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/actool/bundle/Onions.jpg">
+      <LogicalName>Onions.jpg</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/actool/bundle/Peas.jpg">
+      <LogicalName>Peas.jpg</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/actool/bundle/Peppers.jpg">
+      <LogicalName>Peppers.jpg</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/actool/bundle/Potatoes.jpg">
+      <LogicalName>Potatoes.jpg</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/actool/bundle/Radishes.jpg">
+      <LogicalName>Radishes.jpg</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/actool/bundle/Spinach.jpg">
+      <LogicalName>Spinach.jpg</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/actool/bundle/Squash.jpg">
+      <LogicalName>Squash.jpg</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/actool/bundle/Sugar Snap Peas.jpg">
+      <LogicalName>Sugar Snap Peas.jpg</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/actool/bundle/Sweet Potatoes.jpg">
+      <LogicalName>Sweet Potatoes.jpg</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/actool/bundle/Swiss Chard.jpg">
+      <LogicalName>Swiss Chard.jpg</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/actool/bundle/Tomatoes.jpg">
+      <LogicalName>Tomatoes.jpg</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/actool/bundle/Turnip.jpg">
+      <LogicalName>Turnip.jpg</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/actool/bundle/Watercress.jpg">
+      <LogicalName>Watercress.jpg</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/actool/bundle/Zucchini.jpg">
+      <LogicalName>Zucchini.jpg</LogicalName>
       <Optimize>false</Optimize>
     </_BundleResourceWithLogicalName>
   </ItemGroup>

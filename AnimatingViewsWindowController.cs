@@ -25,36 +25,95 @@ namespace AnimatingViews
 	public partial class AnimatingViewsWindowController : AppKit.NSWindowController
 	{
 		public static int inventoryCount = 0;
+		public static double avgTemp = 0;
+		public static double avgHumidity = 0;
+		public static string avgSummary = "";
+		public static int avgUV = 0;
+		public static double avgCloudCoverage = 0;
+		public static double avgPrecipProb = 0;
+		public static double avgTemp1 = 0;
+		public static double avgHumidity1 = 0;
+		public static string avgSummary1 = "";
+		public static int avgUV1 = 0;
+		public static double avgCloudCoverage1 = 0;
+		public static double avgPrecipProb1 = 0;
 
 		private const float SEPARATION = 15.0f;
 		private const float BOX_WIDTH = 200.0f;
 		private const float BOX_HEIGHT = 150.0f;
 
 		public static string[] existingPlants = new string[100];
-		public static List<Plant> plants = new List<Plant>()
-		{
-			new Plant("Arugula", 1, 1, 1),
-			new Plant("Asparagus", 1, 1, 1),
-			new Plant("Green Beans", 1, 1, 1),
-			new Plant("Beets", 1, 1, 1),
-			new Plant("Broccoli", 1, 1, 1)
-		};
 
 		public class Plant
 		{
-			public string name;
-			public string Name { get { return name; } set { name = value; } }
-			public double heatTolerance { get; set; }
-			public double waterNeededPerM3 { get; set; }
-			public int favorableSeason { get; set; }
+			private string name;
+			private double heatTolerance;
+			private double waterNeededPerM3;
+			private int favorableSeason;
 			public Plant(string n, double h, double w, int f)
 			{
 				name = n;
 				heatTolerance = h;
 				waterNeededPerM3 = w;
-				favorableSeason = f;
+				favorableSeason = f; // 1 = winter, 4 = fall
 			}
+			public string Name { get { return name; } set { name = value; } }
+
+			public double getHeatTolerance()
+            {
+				return heatTolerance;
+            }
+            public double getWaterNeededPerM3()
+            {
+				return waterNeededPerM3;
+            }
+            public int getFavorableSeason()
+            {
+				return favorableSeason;
+            }
 		};
+
+		public static List<Plant> plants = new List<Plant>()
+		{
+			new Plant("Amaranth", .4, 20, 2),
+			new Plant("Artichoke", .55, 24, 3),
+			new Plant("Arugula", .60, 25, 2),
+			new Plant("Asparagus", .75, 35, 3),
+			new Plant("Beets", .8, 40, 3),
+			new Plant("Broccoli", .7, 33, 3),
+			new Plant("Brussel Sprouts", .45, 35, 2),
+			new Plant("Cabbage", .35, 33, 2),
+			new Plant("Carrots", .6, 25, 2),
+			new Plant("Cauliflower", .6, 28, 4),
+			new Plant("Celery", .42, 35, 2),
+			new Plant("Collard Greens", .38, 30, 2),
+			new Plant("Corn", .8, 40, 4),
+			new Plant("Cucumber", .6, 45, 2),
+			new Plant("Eggplant", .55, 41, 3),
+			new Plant("Ginger Root", .7, 29, 4),
+			new Plant("Green Beans", .70, 35, 3),
+			new Plant("Kale", .55, 26, 2),
+			new Plant("Lettuce", .33, 33, 2),
+			new Plant("Mushrooms", .43, 21, 2),
+			new Plant("Mustard Greens", .4, 26, 2),
+			new Plant("Okra", .3, 30, 2),
+			new Plant("Onions", .7, 31, 4),
+			new Plant("Peas", .39, 28, 2),
+			new Plant("Peppers", .35, 34, 3),
+			new Plant("Potatoes", .65, 35, 4),
+			new Plant("Radishes", .55, 36, 4),
+			new Plant("Spinach", .3, 35, 2),
+			new Plant("Squash", .38, 32, 2),
+			new Plant("Sugar Snap Peas", .32, 22, 2),
+			new Plant("Sweet Potatoes", .28, 27, 4),
+			new Plant("Swiss Chard", .41, 31, 2),
+			new Plant("Tomatoes", .42, 30, 2),
+			new Plant("Turnip", .6, 34, 4),
+			new Plant("Watercress", .4, 26, 2),
+			new Plant("Zucchini", .47, 33, 2)
+		};
+
+	
 	
 		class MessageTypeDataSource : NSComboBoxDataSource
 		{
@@ -139,6 +198,51 @@ namespace AnimatingViews
 		{
 			get { return (AnimatingViewsWindow)base.Window; }
 		}
+		/*public static double avgTemp = 0;
+		public static double avgCloudCoverage = 0;
+		public static double avgHumidity = 0;
+		public static double avgPrecipProbability = 0;
+		public static int avgUvIndex = 0;
+		public static string theMost = "";
+		public static double avgTemp1 = 0;
+		public static double avgCloudCoverage1 = 0;
+		public static double avgHumidity1 = 0;
+		public static double avgPrecipProbability1 = 0;
+		public static int avgUvIndex1 = 0;
+		public static string theMost1 = "";
+        */
+        public string getEmoji(string str)
+        {
+			string emoji = "";
+			switch (str)
+			{
+				case "Overcast":
+					emoji = " ☁️ ";
+					break;
+				case "Drizzle":
+					emoji = " 🌧 ";
+					break;
+				case "Possible Drizzle":
+					emoji = " ☁️ ";
+					break;
+				case "Partly Cloudy":
+					emoji = " 🌤 ";
+					break;
+				case "Mostly Cloudy":
+					emoji = " ⛅️ ";
+					break;
+				case "Possible Light Rain":
+					emoji = " 🌨 ";
+					break;
+				case "Sunny":
+					emoji = " ☀️ ";
+					break;
+				default:
+					emoji = " ";
+					break;
+			}
+			return emoji;
+		}
 
 		async Task getForecast(double longitude, double latitude)
 		{
@@ -174,13 +278,8 @@ namespace AnimatingViews
 				}
 				twentyFourHoursFromNow.StringValue = time.ToString() + " " + pmoram;
 				int i = 0;
-				double avgTemp = 0;
-				double avgCloudCoverage = 0;
-				double avgHumidity = 0;
-				double avgPrecipAccumulation = 0;
-				double avgPrecipProbability = 0;
-				int avgUvIndex = 0;
-				string theMost = "";
+				
+				
 				int most = 0;
 				Dictionary<string, int> sum = new Dictionary<string, int>();
 
@@ -192,7 +291,7 @@ namespace AnimatingViews
 					precipProbability[i] = (double)r[i].PrecipProbability;
 					summary[i] = r[i].Summary;
 					uvIndex[i] = (int)r[i].UvIndex;
-					Console.WriteLine(r[i].Humidity);
+					//Console.WriteLine(r[i].Summary);
                 }
 			    for (i = 0; i < 11; i++)
 				{
@@ -211,8 +310,8 @@ namespace AnimatingViews
 					avgTemp += temp[i];
 					avgCloudCoverage += cloudCoverage[i];
 					avgHumidity += humidity[i];
-					avgPrecipProbability += precipProbability[i];
-					avgUvIndex += uvIndex[i];
+					avgPrecipProb += precipProbability[i];
+					avgUV += uvIndex[i];
 				}
 				if (sum.Count > 1)
 				{
@@ -220,21 +319,19 @@ namespace AnimatingViews
 					{
 						if (x.Value > most)
 						{
-							theMost = x.Key;
+							avgSummary = x.Key;
 						}
 					}
 				}
 				avgTemp /= 11;
 				avgCloudCoverage /= 11;
 				avgHumidity /= 11;
-				avgPrecipProbability /= 11;
-				avgUvIndex /= 11;
-    			nowWeatherLabel.StringValue = Math.Round(avgTemp, 2).ToString() + "℉" + " 🌤" + theMost;
-				avgTemp = 0;
-				avgCloudCoverage = 0;
-				avgHumidity = 0;
-				avgPrecipProbability = 0;
-				avgUvIndex = 0;
+				avgPrecipProb /= 11;
+				avgUV /= 11;
+				string emoji = "";
+               
+    			nowWeatherLabel.StringValue = Math.Round(avgTemp, 2).ToString() + "℉" + getEmoji(avgSummary) + avgSummary;
+				
 				sum.Clear();
 				for (i = 11; i < 23; i++)
 				{
@@ -250,18 +347,18 @@ namespace AnimatingViews
 					{
 						sum[summary[i]] += 1;
 					}
-					avgTemp += temp[i];
-					avgCloudCoverage += cloudCoverage[i];
-					avgHumidity += humidity[i];
-					avgPrecipProbability += precipProbability[i];
-					avgUvIndex += uvIndex[i];
+					avgTemp1 += temp[i];
+					avgCloudCoverage1 += cloudCoverage[i];
+					avgHumidity1 += humidity[i];
+					avgPrecipProb1 += precipProbability[i];
+					avgUV1 += uvIndex[i];
 				}
-				avgTemp /= 12;
-				avgCloudCoverage /= 12;
-				avgHumidity /= 12;
-				avgPrecipProbability /= 12;
-				avgUvIndex /= 12;
-				Console.WriteLine(avgUvIndex);
+				avgTemp1 /= 12;
+				avgCloudCoverage1 /= 12;
+				avgHumidity1 /= 12;
+				avgPrecipProb1 /= 12;
+				avgUV1 /= 12;
+				//Console.WriteLine(avgUvIndex1);
 				most = 0;
 			   	if (sum.Count >= 1)
 			    {
@@ -269,15 +366,16 @@ namespace AnimatingViews
 			    	{
 				    	if (x.Value > most)
 				    	{
-				    		theMost = x.Key;
+				    		avgSummary1 = x.Key;
 					    }
 				    }
 			    }
-			   	laterWeatherLabel.StringValue = Math.Round(avgTemp, 2).ToString() + "℉" + " 🌘" + theMost;       
+			   	laterWeatherLabel.StringValue = Math.Round(avgTemp1, 2).ToString() + "℉" + getEmoji(avgSummary1) + avgSummary1;       
             }
 			else
 			{
 				nowWeatherLabel.StringValue = "No current weather data";
+				laterWeatherLabel.StringValue = "";
 			}
 		}
 
@@ -297,21 +395,22 @@ namespace AnimatingViews
 			if (outletFoodSelectionComboBox.StringValue != "")
 			{
 				string id = plantSize.StringValue + outletFoodSelectionComboBox.SelectedIndex.ToString();
-				string plantName = plants.ElementAt((int)outletFoodSelectionComboBox.SelectedIndex).Name;
-
-				//	if (founded() == true)
+				string name = plants.ElementAt((int)outletFoodSelectionComboBox.SelectedIndex).Name;
+				string size = plantSize.StringValue;
+				Plant plant = plants.ElementAt((int)outletFoodSelectionComboBox.SelectedIndex);
 				if (findPlant(id))
 				{
 					return;
 				}
 				existingPlants[inventoryCount++] = id;
 				simpleView.AddSubview(viewToBeAdded());
-				simpleView.Subviews.Last().AddSubview(addPlantName(plantName));
-				simpleView.Subviews.Last().AddSubview(addPlantImage(plantName));
-				simpleView.Subviews.Last().AddSubview(addPlantSize(plantSize.StringValue.ToString()));
-				simpleView.Subviews.Last().AddSubview(addPlantStepperTextField());
+				simpleView.Subviews.Last().AddSubview(addPlantName(name));
+				simpleView.Subviews.Last().AddSubview(addPlantImage(name));
+				simpleView.Subviews.Last().AddSubview(addPlantSize(size));
+				//	simpleView.Subviews.Last().AddSubview(addPlantStepperTextField());
+				simpleView.Subviews.Last().AddSubview(perPlantLabel());
                 simpleView.Subviews.Last().AddSubview(removeButton(id));
-				simpleView.Subviews.Last().AddSubview(addPlantWater());
+				simpleView.Subviews.Last().AddSubview(addPlantWater(plant, size));
                 layout();
 			}
 		}
@@ -340,20 +439,117 @@ namespace AnimatingViews
             }
         }
 
-	   private NSView addPlantWater()
+        public string waterNeeded(Plant p, string size, int nowOrLater)
         {
-			NSTextField water = new NSTextField(new CGRect(100f, 25f, 90f, 85f))
+			double result;
+			double heatT = p.getHeatTolerance();
+			double waterPer = p.getWaterNeededPerM3();
+			int seasonF = p.getFavorableSeason();
+			double amount = 0;
+			double intSize;
+			double temp;
+			double humidity;
+			double uv;
+			double cloudCoverage;
+			double precipProb;
+			string summary;
+            switch (size)
+            {
+                case "S":
+                    intSize = 0.4;
+					break;
+				case "M":
+					intSize = 0.85;
+					break;
+				case "L":
+					intSize = 1.2;
+					break;
+				default:
+					intSize = 0.5;
+					break;
+            }
+		//	Console.WriteLine(intSize);
+			if (nowOrLater == 1)
 			{
-                Bordered = true,
-                StringValue = "dfsdfdsfsdfsdfsfsdf"
+				temp = avgTemp;
+				humidity = avgHumidity;
+				uv = avgUV;
+				cloudCoverage = avgCloudCoverage;
+				precipProb = avgPrecipProb;
+				summary = avgSummary;
+            }
+            else
+            {
+				temp = avgTemp1;
+				humidity = avgHumidity1;
+				uv = avgUV1;
+				cloudCoverage = avgCloudCoverage1;
+				precipProb = avgPrecipProb1;
+				summary = avgSummary1;
+			}
+			/*Console.WriteLine("heatT " + heatT + "\n" +
+                              "waterper " + waterPer + "\n" +
+                              "seasonF " + seasonF + "\n" +
+                              "temp " + temp + "\n" +
+                              "humidity " + humidity + "\n" +
+                              "summary " + summary + "\n" +
+                              "uv " + uv + "\n" +
+                              "cloud " + cloudCoverage + "\n" +
+                              "precipProb" + precipProb + "\n");*/
+
+			if (cloudCoverage > 0.6 || summary == "Overcast" || precipProb > .50 || temp <= 10)
+				return "No need";
+            else
+            {
+				result = ((1 - heatT) * (waterPer * intSize) * (temp-10) * uv) - ((humidity * 1.5) + (precipProb * 40) + (cloudCoverage * 4));
+			    result = Math.Round(result, 0);
+			}
+            if(result < 30)
+            {
+				return "No need";
+            }
+			return result.ToString() + "mL";
+        }
+
+        private NSView perPlantLabel()
+        {
+			NSTextField label = new NSTextField(new CGRect(BOX_WIDTH - 95f, BOX_HEIGHT - 67f, 70f, 30f))
+			{
+				Selectable = false,
+				Editable = false,
+				Bezeled = false,
+				DrawsBackground = false,
+				MaximumNumberOfLines = 1,
+				Bordered = false,
+				StringValue = "Per Plant",
+				Font = NSFont.SystemFontOfSize(13f, 12f)
+			};
+			return label;
+		}
+
+	   private NSView addPlantWater(Plant p, string size)
+        {
+			//string pp = waterNeeded(p, size, avgTemp, avgHumidity, theMost, avgUvIndex, avgCloudCoverage, avgPrecipProbability); ;
+			NSTextField water = new NSTextField(new CGRect(90f, 22f, 100f, 70f))
+			{
+				Selectable = false,
+				Editable = false,
+				Bezeled = false,
+				DrawsBackground = false,
+				Bordered = false,
+				StringValue = "Now: " + waterNeeded(p, size, 1) + "\nin 24hrs: " + waterNeeded(p, size, 2) 
 			};
 			return water;
         }
 
         private NSView addPlantName(string plantName)
         {
-			int fieldWidth = plantName.Length * 8;
-			NSTextField d = new NSTextField();
+			double fieldWidth = plantName.Length * 9;
+			Console.WriteLine(fieldWidth);
+            if(fieldWidth > 110)
+            {
+				fieldWidth = 110;
+            }
 			return new NSTextField(new CGRect(19f, BOX_HEIGHT - 35f, (float)fieldWidth, 25.0f))
 			{
 				Editable = false,
@@ -377,7 +573,8 @@ namespace AnimatingViews
 			NSImage image = NSImage.ImageNamed(plantName);
 			return new NSImageView(new CGRect(0.0f, 30.0f, 80.0f, 75.0f))
 			{
-				Image = image
+				Image = image,
+                
 			};
         }
 
@@ -386,12 +583,11 @@ namespace AnimatingViews
 			NSTextField dsd = new NSTextField(new CGRect(BOX_WIDTH - 40f, BOX_HEIGHT - 35f, 30f, 25f))
 			{
 				MaximumNumberOfLines = 1,
-				PlaceholderString = "0",
+				PlaceholderString = "1",
                 Alignment = NSTextAlignment.Center
 			};
 			dsd.Changed += delegate
-			{
-                
+			{   
                 if(dsd.StringValue.Length > 0)
                 {
 					string str = dsd.StringValue;
@@ -401,6 +597,7 @@ namespace AnimatingViews
 
                     }
 						dsd.StringValue = c.ToString();
+                    
 				}
 			};
 			return dsd;
