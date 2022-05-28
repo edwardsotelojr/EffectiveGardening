@@ -1,1 +1,13 @@
-2020-02-19 14:24:49.192 AnimatingViews[3704:232207] This application is trying to draw a very large combo box, 28 points tall.  Vertically resizable combo boxes are not supported, but it happens that 10.4 and previous drew something that looked kind of sort of okay.  The art in 10.5 does not break up in a way that supports that drawing.  This application should be revised to stop using large combo boxes.  This warning will appear once per app launch.
+2020-02-19 14:39:49.607 AnimatingViews[3908:239322] -[EffectiveGardeningWindowController loadWindow]: failed to load window nib file 'EffectiveGardeningWindow'.
+2020-02-19 14:41:30.169 AnimatingViews[3908:239322] 
+Unhandled Exception:
+System.NullReferenceException: Object reference not set to an instance of an object
+  at EffectiveGardening.AppDelegate.DidFinishLaunching (Foundation.NSNotification notification) [0x0000c] in /Users/edwardsotelojr/Downloads/Xamarin_Mac___AnimatingViews/AppDelegate.cs:20 
+  at (wrapper managed-to-native) AppKit.NSApplication.NSApplicationMain(int,string[])
+  at AppKit.NSApplication.Main (System.String[] args) [0x00040] in /Library/Frameworks/Xamarin.Mac.framework/Versions/6.10.0.17/src/Xamarin.Mac/AppKit/NSApplication.cs:100 
+  at EffectiveGardening.MainClass.Main (System.String[] args) [0x00007] in /Users/edwardsotelojr/Downloads/Xamarin_Mac___AnimatingViews/Main.cs:19 
+[ERROR] FATAL UNHANDLED EXCEPTION: System.NullReferenceException: Object reference not set to an instance of an object
+  at EffectiveGardening.AppDelegate.DidFinishLaunching (Foundation.NSNotification notification) [0x0000c] in /Users/edwardsotelojr/Downloads/Xamarin_Mac___AnimatingViews/AppDelegate.cs:20 
+  at (wrapper managed-to-native) AppKit.NSApplication.NSApplicationMain(int,string[])
+  at AppKit.NSApplication.Main (System.String[] args) [0x00040] in /Library/Frameworks/Xamarin.Mac.framework/Versions/6.10.0.17/src/Xamarin.Mac/AppKit/NSApplication.cs:100 
+  at EffectiveGardening.MainClass.Main (System.String[] args) [0x00007] in /Users/edwardsotelojr/Downloads/Xamarin_Mac___AnimatingViews/Main.cs:19 

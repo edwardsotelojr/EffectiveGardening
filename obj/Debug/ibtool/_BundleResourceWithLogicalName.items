@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool/MainMenu.nib/keyedobjects-101300.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>MainMenu.nib/keyedobjects-101300.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool/MainMenu.nib</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool/MainMenu.nib/keyedobjects.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>MainMenu.nib/keyedobjects.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool/MainMenu.nib</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool/AnimatingViewsWindow.nib/keyedobjects-101300.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>AnimatingViewsWindow.nib/keyedobjects-101300.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool/AnimatingViewsWindow.nib</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/Debug/ibtool/AnimatingViewsWindow.nib/keyedobjects.nib">
+      <Optimize>false</Optimize>
+      <LogicalName>AnimatingViewsWindow.nib/keyedobjects.nib</LogicalName>
+      <OriginalItemSpec>obj/Debug/ibtool/AnimatingViewsWindow.nib</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+  </ItemGroup>
+</Project>

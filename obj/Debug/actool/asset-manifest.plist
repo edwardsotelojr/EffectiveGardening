@@ -49,57 +49,152 @@
 		<dict>
 			<key>affected-items</key>
 			<array>
-				<string>./Cucumber.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Cucumber.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Cucumber.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Cucumber.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Cucumber.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Cucumber.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Cucumber.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Cucumber.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Mustard Greens.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Mustard Greens.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Mustard Greens.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Mustard Greens.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Mustard Greens.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Mustard Greens.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Mustard Greens.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Mustard Greens.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
 			</array>
 			<key>catalog</key>
 			<string>/Users/edwardsotelojr/Downloads/Xamarin_Mac___AnimatingViews/obj/Debug/actool/cloned-assets/Assets.xcassets</string>
 			<key>message</key>
-			<string>The image set "Cucumber" has 8 unassigned children.</string>
+			<string>The image set "Mustard Greens" has 8 unassigned children.</string>
 			<key>type</key>
 			<string>Ambiguous Content</string>
 		</dict>
 		<dict>
 			<key>affected-items</key>
 			<array>
-				<string>./Turnip.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Turnip.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Turnip.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Turnip.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Turnip.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Turnip.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Turnip.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Turnip.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Squash.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Squash.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Squash.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Squash.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Squash.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Squash.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Squash.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Squash.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
 			</array>
 			<key>catalog</key>
 			<string>/Users/edwardsotelojr/Downloads/Xamarin_Mac___AnimatingViews/obj/Debug/actool/cloned-assets/Assets.xcassets</string>
 			<key>message</key>
-			<string>The image set "Turnip" has 8 unassigned children.</string>
+			<string>The image set "Squash" has 8 unassigned children.</string>
 			<key>type</key>
 			<string>Ambiguous Content</string>
 		</dict>
 		<dict>
 			<key>affected-items</key>
 			<array>
-				<string>./Peas.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Peas.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Peas.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Peas.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Peas.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Peas.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Peas.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Peas.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Radishes.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Radishes.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Radishes.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Radishes.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Radishes.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Radishes.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Radishes.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Radishes.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
 			</array>
 			<key>catalog</key>
 			<string>/Users/edwardsotelojr/Downloads/Xamarin_Mac___AnimatingViews/obj/Debug/actool/cloned-assets/Assets.xcassets</string>
 			<key>message</key>
-			<string>The image set "Peas" has 8 unassigned children.</string>
+			<string>The image set "Radishes" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./Spinach.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Spinach.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Spinach.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Spinach.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Spinach.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Spinach.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Spinach.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Spinach.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/edwardsotelojr/Downloads/Xamarin_Mac___AnimatingViews/obj/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "Spinach" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./Sweet Potatoes.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Sweet Potatoes.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Sweet Potatoes.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Sweet Potatoes.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Sweet Potatoes.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Sweet Potatoes.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Sweet Potatoes.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Sweet Potatoes.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/edwardsotelojr/Downloads/Xamarin_Mac___AnimatingViews/obj/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "Sweet Potatoes" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./Swiss Chard.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Swiss Chard.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Swiss Chard.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Swiss Chard.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Swiss Chard.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Swiss Chard.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Swiss Chard.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Swiss Chard.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/edwardsotelojr/Downloads/Xamarin_Mac___AnimatingViews/obj/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "Swiss Chard" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./Artichoke.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Artichoke.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Artichoke.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Artichoke.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Artichoke.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Artichoke.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Artichoke.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Artichoke.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/edwardsotelojr/Downloads/Xamarin_Mac___AnimatingViews/obj/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "Artichoke" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./Zucchini.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Zucchini.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Zucchini.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Zucchini.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Zucchini.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Zucchini.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Zucchini.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Zucchini.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/edwardsotelojr/Downloads/Xamarin_Mac___AnimatingViews/obj/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "Zucchini" has 8 unassigned children.</string>
 			<key>type</key>
 			<string>Ambiguous Content</string>
 		</dict>
@@ -125,6 +220,82 @@
 		<dict>
 			<key>affected-items</key>
 			<array>
+				<string>./Cucumber.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Cucumber.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Cucumber.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Cucumber.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Cucumber.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Cucumber.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Cucumber.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Cucumber.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/edwardsotelojr/Downloads/Xamarin_Mac___AnimatingViews/obj/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "Cucumber" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./Watercress.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Watercress.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Watercress.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Watercress.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Watercress.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Watercress.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Watercress.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Watercress.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/edwardsotelojr/Downloads/Xamarin_Mac___AnimatingViews/obj/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "Watercress" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./Asparagus.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Asparagus.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Asparagus.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Asparagus.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Asparagus.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Asparagus.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Asparagus.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Asparagus.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/edwardsotelojr/Downloads/Xamarin_Mac___AnimatingViews/obj/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "Asparagus" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./Turnip.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Turnip.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Turnip.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Turnip.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Turnip.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Turnip.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Turnip.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Turnip.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/edwardsotelojr/Downloads/Xamarin_Mac___AnimatingViews/obj/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "Turnip" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
 				<string>./Ginger Root.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
 				<string>./Ginger Root.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
 				<string>./Ginger Root.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
@@ -144,38 +315,19 @@
 		<dict>
 			<key>affected-items</key>
 			<array>
-				<string>./Cauliflower.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Cauliflower.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Cauliflower.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Cauliflower.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Cauliflower.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Cauliflower.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Cauliflower.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Cauliflower.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Lettuce.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Lettuce.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Lettuce.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Lettuce.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Lettuce.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Lettuce.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Lettuce.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Lettuce.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
 			</array>
 			<key>catalog</key>
 			<string>/Users/edwardsotelojr/Downloads/Xamarin_Mac___AnimatingViews/obj/Debug/actool/cloned-assets/Assets.xcassets</string>
 			<key>message</key>
-			<string>The image set "Cauliflower" has 8 unassigned children.</string>
-			<key>type</key>
-			<string>Ambiguous Content</string>
-		</dict>
-		<dict>
-			<key>affected-items</key>
-			<array>
-				<string>./Cabbage.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Cabbage.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Cabbage.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Cabbage.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Cabbage.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Cabbage.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Cabbage.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Cabbage.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
-			</array>
-			<key>catalog</key>
-			<string>/Users/edwardsotelojr/Downloads/Xamarin_Mac___AnimatingViews/obj/Debug/actool/cloned-assets/Assets.xcassets</string>
-			<key>message</key>
-			<string>The image set "Cabbage" has 8 unassigned children.</string>
+			<string>The image set "Lettuce" has 8 unassigned children.</string>
 			<key>type</key>
 			<string>Ambiguous Content</string>
 		</dict>
@@ -202,266 +354,19 @@
 		<dict>
 			<key>affected-items</key>
 			<array>
-				<string>./Green Beans.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Green Beans.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Green Beans.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Green Beans.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Green Beans.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Green Beans.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Green Beans.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Green Beans.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Kale.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Kale.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Kale.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Kale.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Kale.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Kale.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Kale.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Kale.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
 			</array>
 			<key>catalog</key>
 			<string>/Users/edwardsotelojr/Downloads/Xamarin_Mac___AnimatingViews/obj/Debug/actool/cloned-assets/Assets.xcassets</string>
 			<key>message</key>
-			<string>The image set "Green Beans" has 8 unassigned children.</string>
-			<key>type</key>
-			<string>Ambiguous Content</string>
-		</dict>
-		<dict>
-			<key>affected-items</key>
-			<array>
-				<string>./Collard Greens.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Collard Greens.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Collard Greens.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Collard Greens.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Collard Greens.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Collard Greens.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Collard Greens.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Collard Greens.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
-			</array>
-			<key>catalog</key>
-			<string>/Users/edwardsotelojr/Downloads/Xamarin_Mac___AnimatingViews/obj/Debug/actool/cloned-assets/Assets.xcassets</string>
-			<key>message</key>
-			<string>The image set "Collard Greens" has 8 unassigned children.</string>
-			<key>type</key>
-			<string>Ambiguous Content</string>
-		</dict>
-		<dict>
-			<key>affected-items</key>
-			<array>
-				<string>./Mushrooms.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Mushrooms.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Mushrooms.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Mushrooms.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Mushrooms.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Mushrooms.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Mushrooms.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Mushrooms.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
-			</array>
-			<key>catalog</key>
-			<string>/Users/edwardsotelojr/Downloads/Xamarin_Mac___AnimatingViews/obj/Debug/actool/cloned-assets/Assets.xcassets</string>
-			<key>message</key>
-			<string>The image set "Mushrooms" has 8 unassigned children.</string>
-			<key>type</key>
-			<string>Ambiguous Content</string>
-		</dict>
-		<dict>
-			<key>affected-items</key>
-			<array>
-				<string>./Mustard Greens.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Mustard Greens.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Mustard Greens.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Mustard Greens.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Mustard Greens.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Mustard Greens.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Mustard Greens.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Mustard Greens.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
-			</array>
-			<key>catalog</key>
-			<string>/Users/edwardsotelojr/Downloads/Xamarin_Mac___AnimatingViews/obj/Debug/actool/cloned-assets/Assets.xcassets</string>
-			<key>message</key>
-			<string>The image set "Mustard Greens" has 8 unassigned children.</string>
-			<key>type</key>
-			<string>Ambiguous Content</string>
-		</dict>
-		<dict>
-			<key>affected-items</key>
-			<array>
-				<string>./Brussel Sprouts.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Brussel Sprouts.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Brussel Sprouts.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Brussel Sprouts.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Brussel Sprouts.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Brussel Sprouts.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Brussel Sprouts.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Brussel Sprouts.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
-			</array>
-			<key>catalog</key>
-			<string>/Users/edwardsotelojr/Downloads/Xamarin_Mac___AnimatingViews/obj/Debug/actool/cloned-assets/Assets.xcassets</string>
-			<key>message</key>
-			<string>The image set "Brussel Sprouts" has 8 unassigned children.</string>
-			<key>type</key>
-			<string>Ambiguous Content</string>
-		</dict>
-		<dict>
-			<key>affected-items</key>
-			<array>
-				<string>./Sugar Snap Peas.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Sugar Snap Peas.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Sugar Snap Peas.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Sugar Snap Peas.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Sugar Snap Peas.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Sugar Snap Peas.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Sugar Snap Peas.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Sugar Snap Peas.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
-			</array>
-			<key>catalog</key>
-			<string>/Users/edwardsotelojr/Downloads/Xamarin_Mac___AnimatingViews/obj/Debug/actool/cloned-assets/Assets.xcassets</string>
-			<key>message</key>
-			<string>The image set "Sugar Snap Peas" has 8 unassigned children.</string>
-			<key>type</key>
-			<string>Ambiguous Content</string>
-		</dict>
-		<dict>
-			<key>affected-items</key>
-			<array>
-				<string>./Sweet Potatoes.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Sweet Potatoes.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Sweet Potatoes.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Sweet Potatoes.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Sweet Potatoes.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Sweet Potatoes.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Sweet Potatoes.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Sweet Potatoes.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
-			</array>
-			<key>catalog</key>
-			<string>/Users/edwardsotelojr/Downloads/Xamarin_Mac___AnimatingViews/obj/Debug/actool/cloned-assets/Assets.xcassets</string>
-			<key>message</key>
-			<string>The image set "Sweet Potatoes" has 8 unassigned children.</string>
-			<key>type</key>
-			<string>Ambiguous Content</string>
-		</dict>
-		<dict>
-			<key>affected-items</key>
-			<array>
-				<string>./Okra.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Okra.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Okra.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Okra.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Okra.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Okra.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Okra.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Okra.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
-			</array>
-			<key>catalog</key>
-			<string>/Users/edwardsotelojr/Downloads/Xamarin_Mac___AnimatingViews/obj/Debug/actool/cloned-assets/Assets.xcassets</string>
-			<key>message</key>
-			<string>The image set "Okra" has 8 unassigned children.</string>
-			<key>type</key>
-			<string>Ambiguous Content</string>
-		</dict>
-		<dict>
-			<key>affected-items</key>
-			<array>
-				<string>./Watercress.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Watercress.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Watercress.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Watercress.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Watercress.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Watercress.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Watercress.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Watercress.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
-			</array>
-			<key>catalog</key>
-			<string>/Users/edwardsotelojr/Downloads/Xamarin_Mac___AnimatingViews/obj/Debug/actool/cloned-assets/Assets.xcassets</string>
-			<key>message</key>
-			<string>The image set "Watercress" has 8 unassigned children.</string>
-			<key>type</key>
-			<string>Ambiguous Content</string>
-		</dict>
-		<dict>
-			<key>affected-items</key>
-			<array>
-				<string>./Artichoke.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Artichoke.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Artichoke.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Artichoke.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Artichoke.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Artichoke.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Artichoke.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Artichoke.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
-			</array>
-			<key>catalog</key>
-			<string>/Users/edwardsotelojr/Downloads/Xamarin_Mac___AnimatingViews/obj/Debug/actool/cloned-assets/Assets.xcassets</string>
-			<key>message</key>
-			<string>The image set "Artichoke" has 8 unassigned children.</string>
-			<key>type</key>
-			<string>Ambiguous Content</string>
-		</dict>
-		<dict>
-			<key>affected-items</key>
-			<array>
-				<string>./Broccoli.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Broccoli.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Broccoli.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Broccoli.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Broccoli.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Broccoli.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Broccoli.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Broccoli.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
-			</array>
-			<key>catalog</key>
-			<string>/Users/edwardsotelojr/Downloads/Xamarin_Mac___AnimatingViews/obj/Debug/actool/cloned-assets/Assets.xcassets</string>
-			<key>message</key>
-			<string>The image set "Broccoli" has 8 unassigned children.</string>
-			<key>type</key>
-			<string>Ambiguous Content</string>
-		</dict>
-		<dict>
-			<key>affected-items</key>
-			<array>
-				<string>./Asparagus.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Asparagus.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Asparagus.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Asparagus.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Asparagus.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Asparagus.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Asparagus.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Asparagus.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
-			</array>
-			<key>catalog</key>
-			<string>/Users/edwardsotelojr/Downloads/Xamarin_Mac___AnimatingViews/obj/Debug/actool/cloned-assets/Assets.xcassets</string>
-			<key>message</key>
-			<string>The image set "Asparagus" has 8 unassigned children.</string>
-			<key>type</key>
-			<string>Ambiguous Content</string>
-		</dict>
-		<dict>
-			<key>affected-items</key>
-			<array>
-				<string>./Squash.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Squash.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Squash.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Squash.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Squash.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Squash.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Squash.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Squash.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
-			</array>
-			<key>catalog</key>
-			<string>/Users/edwardsotelojr/Downloads/Xamarin_Mac___AnimatingViews/obj/Debug/actool/cloned-assets/Assets.xcassets</string>
-			<key>message</key>
-			<string>The image set "Squash" has 8 unassigned children.</string>
-			<key>type</key>
-			<string>Ambiguous Content</string>
-		</dict>
-		<dict>
-			<key>affected-items</key>
-			<array>
-				<string>./Zucchini.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Zucchini.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Zucchini.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Zucchini.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Zucchini.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Zucchini.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Zucchini.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Zucchini.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
-			</array>
-			<key>catalog</key>
-			<string>/Users/edwardsotelojr/Downloads/Xamarin_Mac___AnimatingViews/obj/Debug/actool/cloned-assets/Assets.xcassets</string>
-			<key>message</key>
-			<string>The image set "Zucchini" has 8 unassigned children.</string>
+			<string>The image set "Kale" has 8 unassigned children.</string>
 			<key>type</key>
 			<string>Ambiguous Content</string>
 		</dict>
@@ -487,133 +392,19 @@
 		<dict>
 			<key>affected-items</key>
 			<array>
-				<string>./Celery.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Celery.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Celery.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Celery.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Celery.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Celery.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Celery.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Celery.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Peas.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Peas.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Peas.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Peas.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Peas.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Peas.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Peas.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Peas.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
 			</array>
 			<key>catalog</key>
 			<string>/Users/edwardsotelojr/Downloads/Xamarin_Mac___AnimatingViews/obj/Debug/actool/cloned-assets/Assets.xcassets</string>
 			<key>message</key>
-			<string>The image set "Celery" has 8 unassigned children.</string>
-			<key>type</key>
-			<string>Ambiguous Content</string>
-		</dict>
-		<dict>
-			<key>affected-items</key>
-			<array>
-				<string>./Peppers.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Peppers.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Peppers.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Peppers.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Peppers.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Peppers.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Peppers.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Peppers.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
-			</array>
-			<key>catalog</key>
-			<string>/Users/edwardsotelojr/Downloads/Xamarin_Mac___AnimatingViews/obj/Debug/actool/cloned-assets/Assets.xcassets</string>
-			<key>message</key>
-			<string>The image set "Peppers" has 8 unassigned children.</string>
-			<key>type</key>
-			<string>Ambiguous Content</string>
-		</dict>
-		<dict>
-			<key>affected-items</key>
-			<array>
-				<string>./Eggplant.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Eggplant.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Eggplant.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Eggplant.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Eggplant.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Eggplant.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Eggplant.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Eggplant.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
-			</array>
-			<key>catalog</key>
-			<string>/Users/edwardsotelojr/Downloads/Xamarin_Mac___AnimatingViews/obj/Debug/actool/cloned-assets/Assets.xcassets</string>
-			<key>message</key>
-			<string>The image set "Eggplant" has 8 unassigned children.</string>
-			<key>type</key>
-			<string>Ambiguous Content</string>
-		</dict>
-		<dict>
-			<key>affected-items</key>
-			<array>
-				<string>./Lettuce.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Lettuce.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Lettuce.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Lettuce.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Lettuce.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Lettuce.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Lettuce.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Lettuce.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
-			</array>
-			<key>catalog</key>
-			<string>/Users/edwardsotelojr/Downloads/Xamarin_Mac___AnimatingViews/obj/Debug/actool/cloned-assets/Assets.xcassets</string>
-			<key>message</key>
-			<string>The image set "Lettuce" has 8 unassigned children.</string>
-			<key>type</key>
-			<string>Ambiguous Content</string>
-		</dict>
-		<dict>
-			<key>affected-items</key>
-			<array>
-				<string>./Swiss Chard.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Swiss Chard.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Swiss Chard.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Swiss Chard.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Swiss Chard.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Swiss Chard.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Swiss Chard.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Swiss Chard.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
-			</array>
-			<key>catalog</key>
-			<string>/Users/edwardsotelojr/Downloads/Xamarin_Mac___AnimatingViews/obj/Debug/actool/cloned-assets/Assets.xcassets</string>
-			<key>message</key>
-			<string>The image set "Swiss Chard" has 8 unassigned children.</string>
-			<key>type</key>
-			<string>Ambiguous Content</string>
-		</dict>
-		<dict>
-			<key>affected-items</key>
-			<array>
-				<string>./Radishes.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Radishes.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Radishes.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Radishes.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Radishes.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Radishes.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Radishes.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Radishes.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
-			</array>
-			<key>catalog</key>
-			<string>/Users/edwardsotelojr/Downloads/Xamarin_Mac___AnimatingViews/obj/Debug/actool/cloned-assets/Assets.xcassets</string>
-			<key>message</key>
-			<string>The image set "Radishes" has 8 unassigned children.</string>
-			<key>type</key>
-			<string>Ambiguous Content</string>
-		</dict>
-		<dict>
-			<key>affected-items</key>
-			<array>
-				<string>./Arugula.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Arugula.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Arugula.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Arugula.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Arugula.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Arugula.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Arugula.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Arugula.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
-			</array>
-			<key>catalog</key>
-			<string>/Users/edwardsotelojr/Downloads/Xamarin_Mac___AnimatingViews/obj/Debug/actool/cloned-assets/Assets.xcassets</string>
-			<key>message</key>
-			<string>The image set "Arugula" has 8 unassigned children.</string>
+			<string>The image set "Peas" has 8 unassigned children.</string>
 			<key>type</key>
 			<string>Ambiguous Content</string>
 		</dict>
@@ -639,25 +430,6 @@
 		<dict>
 			<key>affected-items</key>
 			<array>
-				<string>./Kale.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Kale.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Kale.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Kale.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Kale.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Kale.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Kale.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Kale.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
-			</array>
-			<key>catalog</key>
-			<string>/Users/edwardsotelojr/Downloads/Xamarin_Mac___AnimatingViews/obj/Debug/actool/cloned-assets/Assets.xcassets</string>
-			<key>message</key>
-			<string>The image set "Kale" has 8 unassigned children.</string>
-			<key>type</key>
-			<string>Ambiguous Content</string>
-		</dict>
-		<dict>
-			<key>affected-items</key>
-			<array>
 				<string>./Corn.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
 				<string>./Corn.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
 				<string>./Corn.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
@@ -671,6 +443,139 @@
 			<string>/Users/edwardsotelojr/Downloads/Xamarin_Mac___AnimatingViews/obj/Debug/actool/cloned-assets/Assets.xcassets</string>
 			<key>message</key>
 			<string>The image set "Corn" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./Peppers.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Peppers.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Peppers.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Peppers.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Peppers.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Peppers.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Peppers.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Peppers.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/edwardsotelojr/Downloads/Xamarin_Mac___AnimatingViews/obj/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "Peppers" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./Brussel Sprouts.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Brussel Sprouts.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Brussel Sprouts.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Brussel Sprouts.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Brussel Sprouts.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Brussel Sprouts.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Brussel Sprouts.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Brussel Sprouts.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/edwardsotelojr/Downloads/Xamarin_Mac___AnimatingViews/obj/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "Brussel Sprouts" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./Cabbage.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Cabbage.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Cabbage.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Cabbage.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Cabbage.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Cabbage.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Cabbage.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Cabbage.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/edwardsotelojr/Downloads/Xamarin_Mac___AnimatingViews/obj/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "Cabbage" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./Carrots.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Carrots.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Carrots.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Carrots.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Carrots.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Carrots.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Carrots.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Carrots.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/edwardsotelojr/Downloads/Xamarin_Mac___AnimatingViews/obj/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "Carrots" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./Celery.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Celery.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Celery.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Celery.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Celery.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Celery.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Celery.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Celery.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/edwardsotelojr/Downloads/Xamarin_Mac___AnimatingViews/obj/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "Celery" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./Arugula.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Arugula.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Arugula.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Arugula.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Arugula.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Arugula.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Arugula.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Arugula.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/edwardsotelojr/Downloads/Xamarin_Mac___AnimatingViews/obj/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "Arugula" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./Green Beans.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Green Beans.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Green Beans.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Green Beans.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Green Beans.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Green Beans.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Green Beans.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Green Beans.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/edwardsotelojr/Downloads/Xamarin_Mac___AnimatingViews/obj/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "Green Beans" has 8 unassigned children.</string>
 			<key>type</key>
 			<string>Ambiguous Content</string>
 		</dict>
@@ -696,38 +601,133 @@
 		<dict>
 			<key>affected-items</key>
 			<array>
-				<string>./Spinach.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Spinach.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Spinach.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Spinach.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Spinach.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Spinach.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Spinach.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Spinach.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Collard Greens.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Collard Greens.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Collard Greens.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Collard Greens.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Collard Greens.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Collard Greens.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Collard Greens.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Collard Greens.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
 			</array>
 			<key>catalog</key>
 			<string>/Users/edwardsotelojr/Downloads/Xamarin_Mac___AnimatingViews/obj/Debug/actool/cloned-assets/Assets.xcassets</string>
 			<key>message</key>
-			<string>The image set "Spinach" has 8 unassigned children.</string>
+			<string>The image set "Collard Greens" has 8 unassigned children.</string>
 			<key>type</key>
 			<string>Ambiguous Content</string>
 		</dict>
 		<dict>
 			<key>affected-items</key>
 			<array>
-				<string>./Carrots.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Carrots.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Carrots.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Carrots.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Carrots.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Carrots.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
-				<string>./Carrots.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
-				<string>./Carrots.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Sugar Snap Peas.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Sugar Snap Peas.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Sugar Snap Peas.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Sugar Snap Peas.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Sugar Snap Peas.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Sugar Snap Peas.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Sugar Snap Peas.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Sugar Snap Peas.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
 			</array>
 			<key>catalog</key>
 			<string>/Users/edwardsotelojr/Downloads/Xamarin_Mac___AnimatingViews/obj/Debug/actool/cloned-assets/Assets.xcassets</string>
 			<key>message</key>
-			<string>The image set "Carrots" has 8 unassigned children.</string>
+			<string>The image set "Sugar Snap Peas" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./Cauliflower.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Cauliflower.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Cauliflower.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Cauliflower.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Cauliflower.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Cauliflower.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Cauliflower.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Cauliflower.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/edwardsotelojr/Downloads/Xamarin_Mac___AnimatingViews/obj/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "Cauliflower" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./Mushrooms.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Mushrooms.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Mushrooms.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Mushrooms.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Mushrooms.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Mushrooms.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Mushrooms.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Mushrooms.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/edwardsotelojr/Downloads/Xamarin_Mac___AnimatingViews/obj/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "Mushrooms" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./Okra.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Okra.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Okra.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Okra.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Okra.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Okra.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Okra.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Okra.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/edwardsotelojr/Downloads/Xamarin_Mac___AnimatingViews/obj/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "Okra" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./Eggplant.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Eggplant.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Eggplant.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Eggplant.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Eggplant.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Eggplant.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Eggplant.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Eggplant.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/edwardsotelojr/Downloads/Xamarin_Mac___AnimatingViews/obj/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "Eggplant" has 8 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./Broccoli.imageset/[watch][][&lt;=145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Broccoli.imageset/[watch][][&lt;=145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Broccoli.imageset/[watch][][&gt;145][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Broccoli.imageset/[watch][][&gt;145][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Broccoli.imageset/[watch][][][2x][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Broccoli.imageset/[watch][][][2x][][][][][][][light][][][][2d][(null)]</string>
+				<string>./Broccoli.imageset/[watch][][][][][][][][][][dark][][][][2d][(null)]</string>
+				<string>./Broccoli.imageset/[watch][][][][][][][][][][light][][][][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/edwardsotelojr/Downloads/Xamarin_Mac___AnimatingViews/obj/Debug/actool/cloned-assets/Assets.xcassets</string>
+			<key>message</key>
+			<string>The image set "Broccoli" has 8 unassigned children.</string>
 			<key>type</key>
 			<string>Ambiguous Content</string>
 		</dict>

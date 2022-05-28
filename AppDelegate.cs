@@ -8,7 +8,7 @@ namespace AnimatingViews
 {
 	public partial class AppDelegate : NSApplicationDelegate
 	{
-		AnimatingViewsWindowController animatingViewsWindowController;
+		AnimatingViewsWindowController AnimatingViewsWindowController;
 
 		public AppDelegate ()
 		{
@@ -16,8 +16,8 @@ namespace AnimatingViews
 
 		public override void DidFinishLaunching (NSNotification notification)
 		{
-			animatingViewsWindowController = new AnimatingViewsWindowController ();
-			animatingViewsWindowController.Window.MakeKeyAndOrderFront (this);
+			AnimatingViewsWindowController = new AnimatingViewsWindowController();
+			AnimatingViewsWindowController.Window.MakeKeyAndOrderFront (this);
 		}
 		
 		public override bool ApplicationShouldTerminateAfterLastWindowClosed (NSApplication sender)

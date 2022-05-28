@@ -13,7 +13,13 @@ namespace AnimatingViews
 	partial class AnimatingViewsWindowController
 	{
 		[Outlet]
+		AppKit.NSTextField laterLabel { get; set; }
+
+		[Outlet]
 		AppKit.NSTextFieldCell laterWeatherLabel { get; set; }
+
+		[Outlet]
+		AppKit.NSTextField nowLabel { get; set; }
 
 		[Outlet]
 		AppKit.NSTextField nowWeatherLabel { get; set; }
@@ -31,13 +37,7 @@ namespace AnimatingViews
 		AppKit.NSView simpleView { get; set; }
 
 		[Outlet]
-		AppKit.NSTextField tenHoursFromNow { get; set; }
-
-		[Outlet]
 		AppKit.NSTextField tenHoursFromNow2 { get; set; }
-
-		[Outlet]
-		AppKit.NSTextField twentyFourHoursFromNow { get; set; }
 
 		[Action ("addABox:")]
 		partial void addABox (AppKit.NSButton sender);
@@ -77,19 +77,19 @@ namespace AnimatingViews
 				simpleView = null;
 			}
 
-			if (tenHoursFromNow != null) {
-				tenHoursFromNow.Dispose ();
-				tenHoursFromNow = null;
-			}
-
 			if (tenHoursFromNow2 != null) {
 				tenHoursFromNow2.Dispose ();
 				tenHoursFromNow2 = null;
 			}
 
-			if (twentyFourHoursFromNow != null) {
-				twentyFourHoursFromNow.Dispose ();
-				twentyFourHoursFromNow = null;
+			if (nowLabel != null) {
+				nowLabel.Dispose ();
+				nowLabel = null;
+			}
+
+			if (laterLabel != null) {
+				laterLabel.Dispose ();
+				laterLabel = null;
 			}
 		}
 	}

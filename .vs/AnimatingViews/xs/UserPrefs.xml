@@ -1,21 +1,28 @@
 ﻿<Properties StartupConfiguration="{371C6844-72BA-41A4-9473-1469CD050C62}|Default">
-  <MonoDevelop.Ide.ItemProperties.AnimatingViews PreferredExecutionTarget="Test1" />
+  <MonoDevelop.Ide.ItemProperties.AnimatingViews Xamarin.HotReload.DebuggerTimeoutException.AnimatingViews.HideInfoBar="True" PreferredExecutionTarget="Test1" />
   <MonoDevelop.Ide.Workbench ActiveDocument="AnimatingViewsWindowController.cs">
     <Files>
-      <File FileName="AnimatingViewsWindowController.cs" Line="533" Column="58" />
-      <File FileName="AnimatingViewsWindow.xib.designer.cs" />
-      <File FileName="AnimatingViewsWindow.cs" />
+      <File FileName="plantUIBox.cs" />
+      <File FileName="../../../../Library/Frameworks/Mono.framework/External/xbuild/Xamarin/Mac/Xamarin.Shared.targets" />
+      <File FileName="AppDelegate.cs" Line="16" Column="1" />
+      <File FileName="AnimatingViewsWindowController.cs" Line="1" Column="1" />
+      <File FileName="Main.cs" Line="10" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="AnimatingViews" expanded="True">
             <Node name="AnimatingViews" expanded="True">
-              <Node name="Assets.xcassets" selected="True" />
-              <Node name="AnimatingViewsWindow.xib" expanded="True" />
+              <Node name="AnimatingViewsWindow.xib" expanded="True">
+                <Node name="AnimatingViewsWindowController.cs" selected="True" />
+              </Node>
+              <Node name="MainMenu.xib" expanded="True" />
             </Node>
           </Node>
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
@@ -24,5 +31,7 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Default" Name="Default" />
+  </MultiItemStartupConfigurations>
 </Properties>

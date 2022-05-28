@@ -10,13 +10,13 @@ namespace AnimatingViews
 	public partial class AnimatingViewsWindow : AppKit.NSWindow
 	{
 		// Called when created from unmanaged code
-		public AnimatingViewsWindow (IntPtr handle) : base(handle)
+		public AnimatingViewsWindow(IntPtr handle) : base(handle)
 		{
 		}
 
 		// Called when created directly from a XIB file
 		[Export("initWithCoder:")]
-		public AnimatingViewsWindow (NSCoder coder) : base(coder)
+		public AnimatingViewsWindow(NSCoder coder) : base(coder)
 		{
 		}
 	}

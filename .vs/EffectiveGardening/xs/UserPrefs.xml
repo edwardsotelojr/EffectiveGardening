@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{371C6844-72BA-41A4-9473-1469CD050C62}|Default">
+  <MonoDevelop.Ide.ItemProperties.AnimatingViews PreferredExecutionTarget="Test1" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../EffectiveGardening/Resources/.DS_Store">
+    <Files>
+      <File FileName="AnimatingViewsWindow.xib" Line="25" Column="33" />
+      <File FileName="../EffectiveGardening/Resources/.DS_Store" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EffectiveGardening" expanded="True">
+            <Node name="EffectiveGardening" expanded="True">
+              <Node name=".DS_Store" selected="True" />
+              <Node name="AnimatingViewsWindow.xib" expanded="True" />
+              <Node name="MainMenu.xib" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

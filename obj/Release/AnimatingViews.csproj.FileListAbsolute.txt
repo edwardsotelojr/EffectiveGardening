@@ -1,0 +1,10 @@
+/Users/edwardsotelojr/Downloads/Xamarin_Mac_AnimatingViews/bin/Release/AnimatingViews.exe
+/Users/edwardsotelojr/Downloads/Xamarin_Mac___AnimatingViews/obj/Release/actool/_PartialAppManifest.items
+/Users/edwardsotelojr/Downloads/Xamarin_Mac___AnimatingViews/obj/Release/actool/_BundleResourceWithLogicalName.items
+/Users/edwardsotelojr/Downloads/Xamarin_Mac___AnimatingViews/obj/Release/ibtool-manifests/MainMenu.nib
+/Users/edwardsotelojr/Downloads/Xamarin_Mac___AnimatingViews/obj/Release/ibtool-manifests/AnimatingViewsWindow.nib
+/Users/edwardsotelojr/Downloads/Xamarin_Mac___AnimatingViews/obj/Release/ibtool/MainMenu.nib
+/Users/edwardsotelojr/Downloads/Xamarin_Mac___AnimatingViews/obj/Release/ibtool/AnimatingViewsWindow.nib
+/Users/edwardsotelojr/Downloads/Xamarin_Mac___AnimatingViews/obj/Release/XamlC.stamp
+/Users/edwardsotelojr/Downloads/Xamarin_Mac___AnimatingViews/obj/Release/AnimatingViews.csproj.CopyComplete
+/Users/edwardsotelojr/Downloads/Xamarin_Mac___AnimatingViews/obj/Release/AnimatingViews.exe
